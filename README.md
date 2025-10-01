@@ -10,6 +10,4 @@ This repository is my personal stash for code snippets and notes—mostly Python
     * Feedforward Neural Network
 
 ## License
-Browse, copy, and adapt any snippet or note for your own projects.
-
-MIT License (see [LICENSE](LICENSE)).
+Browse, copy, and adapt any snippet or note for your own projects. (MIT License)
