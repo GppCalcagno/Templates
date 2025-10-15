@@ -11,7 +11,7 @@ This repository is my personal stash for code snippets and notes - mostly Python
  
 
 * :alembic: skLearn
-* [**Random Forest**](skLearn/RandomForest.ipynb) — A minimal Random Forest example featuring snippets for hyperparameter tuning with `GridSearchCV` and feature importance analysis.
+    * [**Random Forest**](skLearn/RandomForest.ipynb) — A minimal Random Forest example featuring snippets for hyperparameter tuning with `GridSearchCV` and feature importance analysis.
 
 
 
